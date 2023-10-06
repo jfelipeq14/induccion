@@ -1,0 +1,47 @@
+<mxfile host="app.diagrams.net" modified="2023-10-06T16:25:05.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="PXdlajBJZ4e9fXf3wp7K" version="22.0.3" type="device">
+  <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
+    <mxGraphModel dx="1687" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GsNslYsSp6Og3RNhzEA4-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GsNslYsSp6Og3RNhzEA4-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="GsNslYsSp6Og3RNhzEA4-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GsNslYsSp6Og3RNhzEA4-131" value="&lt;strong&gt;Selección e ingreso&lt;/strong&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#23445D;fontColor=#FFFFFF;" vertex="1" connectable="0" parent="GsNslYsSp6Og3RNhzEA4-130">
+          <mxGeometry x="0.3209" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2" value="administración educativa " style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="782" y="50" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GsNslYsSp6Og3RNhzEA4-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="14" target="GsNslYsSp6Og3RNhzEA4-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="Proceso de planificación, organización, &#xa;dirección y control de los recursos humanos,&#xa; materiales y financieros de una institución educativa" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="677" y="170" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GsNslYsSp6Og3RNhzEA4-127" value="Garantizar el desarrollo eficiente&#xa; y eficaz de los procesos educativos." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="1200" y="170" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GsNslYsSp6Og3RNhzEA4-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GsNslYsSp6Og3RNhzEA4-129" target="GsNslYsSp6Og3RNhzEA4-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GsNslYsSp6Og3RNhzEA4-134" value="&lt;strong&gt;Ejecución de la formación&lt;/strong&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#23445D;fontColor=#FFFFFF;labelBorderColor=none;" vertex="1" connectable="0" parent="GsNslYsSp6Og3RNhzEA4-133">
+          <mxGeometry x="-0.0214" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GsNslYsSp6Og3RNhzEA4-129" value="Proceso de selección y admisión de los aspirantes&#xa; a los programas de formación." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="130" y="170" width="440" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="GsNslYsSp6Og3RNhzEA4-132" value="Proceso de selección y admisión de los aspirantes&#xa; a los programas de formación." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="130" y="450" width="440" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
